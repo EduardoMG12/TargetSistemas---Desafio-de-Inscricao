@@ -1,0 +1,18 @@
+{
+  "name": "targetsistemasexercise",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "ex1": "node dist/fibonacci2.js",
+    "ex2": "node dist/diaryBilling3.js",
+    "ex3": "node dist/monthlyBilling4.js",
+    "ex4": "node dist/invertString5.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "tsc": "^2.0.4"
+  }
+}
